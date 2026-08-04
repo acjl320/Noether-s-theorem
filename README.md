@@ -53,14 +53,4 @@ license. You may share the material with proper attribution, but you may not
 modify it or use it for commercial purposes.
 
 ---
-
-## Estructura · Repository structure
-
-```
-github_Noether/
-├── main.tex        # Fuente LaTeX · LaTeX source
-├── main.pdf        # Documento compilado · Compiled document
-├── figuras/        # Imágenes · Figures (.eps, .png)
-├── LICENSE         # Licencia · License (CC BY-NC-ND 4.0)
-└── README.md
-```
+ 
